@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A13BE0E5-3AB2-49D2-AABE-92F852428510</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TravelWeatherGuide</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DBAE298A794AE41A01FE7845C6A933559B9F4091</key>
+		<string>https://bitbucket.org/magetron/travelweatherguide.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TravelWeatherGuide.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DBAE298A794AE41A01FE7845C6A933559B9F4091</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/magetron/travelweatherguide.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DBAE298A794AE41A01FE7845C6A933559B9F4091</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DBAE298A794AE41A01FE7845C6A933559B9F4091</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TravelWeatherGuide</string>
+		</dict>
+	</array>
+</dict>
+</plist>
